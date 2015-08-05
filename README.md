@@ -23,7 +23,7 @@ During development, gulp runs a browserSync session, compiles *.jade to *.html, 
 
 ```
 gulp prod
-``
+```
 Same tasks + uncss and image image optimization
 
 ```
